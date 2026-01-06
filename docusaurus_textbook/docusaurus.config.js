@@ -72,7 +72,7 @@ const config = {
             label: 'Textbook',
           },
           {
-            href: 'https://github.com/subhankaladi',
+            href: 'https://github.com/CodeWithAraib',
             label: 'GitHub',
             position: 'right',
           },
@@ -109,15 +109,15 @@ const config = {
             items: [
               {
                 label: 'Instagram',
-                href: 'https://instagram.com/subhan_kaladi',
+                href: 'https://www.instagram.com/araib_01/',
               },
               {
                 label: 'LinkenIN',
-                href: 'https://www.linkedin.com/in/subhankaladi/',
+                href: 'https://www.linkedin.com/in/muhammad-araib-53291a2b5/',
               },
               {
                 label: '(X)Twitter',
-                href: 'https://x.com/subhankaladi15',
+                href: '',
               },
             ],
           },
@@ -131,7 +131,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright � ${new Date().getFullYear()} Physical AI & Humanoid Robotics Textbook, Built with ❤️ by Subhan Kaladi.`,
+        copyright: `Copyright � ${new Date().getFullYear()} Physical AI & Humanoid Robotics Textbook, Built with ❤️ by Araib-Siddiqui.`,
       },
       prism: {
         theme: prismThemes.github,

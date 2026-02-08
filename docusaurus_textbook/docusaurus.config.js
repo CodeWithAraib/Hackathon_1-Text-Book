@@ -117,7 +117,7 @@ const config = {
               },
               {
                 label: '(X)Twitter',
-                href: '',
+                href: 'https://x.com/MuhammadA2647',
               },
             ],
           },
@@ -126,7 +126,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/subhankaladi',
+                href: 'https://github.com/CodeWithAraib',
               },
             ],
           },
